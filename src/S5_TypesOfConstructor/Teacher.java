@@ -1,4 +1,4 @@
-package TypesOfConstructor;
+package S5_TypesOfConstructor;
 
 public class Teacher {
 

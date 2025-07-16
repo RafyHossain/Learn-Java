@@ -1,4 +1,4 @@
-package MethodInClass;
+package S2_MethodInClass;
 
 public class Test {
     public static void main(String[] args) {

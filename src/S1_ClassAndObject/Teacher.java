@@ -1,4 +1,4 @@
-package ClassAndObject;
+package S1_ClassAndObject;
 
 public class Teacher {
 

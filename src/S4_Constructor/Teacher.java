@@ -1,4 +1,4 @@
-package Constructor;
+package S4_Constructor;
 
 public class Teacher {
     //Constructor special type method

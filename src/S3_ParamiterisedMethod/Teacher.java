@@ -1,4 +1,4 @@
-package ParamiterisedMethod;
+package S3_ParamiterisedMethod;
 
 public class Teacher {
     int age;
