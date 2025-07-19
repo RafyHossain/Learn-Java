@@ -1,4 +1,4 @@
-package S8_StaticVariable;
+package S08_StaticVariable;
 
 public class Test {
     public static void main(String[] args) {

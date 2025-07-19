@@ -1,16 +1,17 @@
-package S3_ParamiterisedMethod;
+package S02_MethodInClass;
 
 public class Test {
     public static void main(String[] args) {
         Teacher Teacher1 = new Teacher();
-        Teacher1.setInfo(25,"Rafy Hossain","Male");
+        Teacher1.name="Sohag";
+        Teacher1.gender="Male";
+        Teacher1.age=22;
         Teacher1.displayInformation();
-        System.out.println();
 
         Teacher Teacher2 = new Teacher();
-        Teacher2.setInfo(22,"Rafy Hossain Sohag","Male");
+        Teacher2.name="Rafy Hossain";
+        Teacher2.gender="Male";
+        Teacher2.age=23;
         Teacher2.displayInformation();
-
     }
-
 }

@@ -1,4 +1,4 @@
-package S1_ClassAndObject;
+package S01_ClassAndObject;
 
 public class Test {
     public static void main(String[] args) {

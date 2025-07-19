@@ -1,4 +1,4 @@
-package S8_StaticVariable;
+package S08_StaticVariable;
 
 /*Static variable এমন একধরনের ভেরিয়েবল যেটা:
 class এর সাথে যুক্ত থাকে, কোনো object এর সাথে না।

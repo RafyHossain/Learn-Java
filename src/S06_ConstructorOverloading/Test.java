@@ -1,4 +1,4 @@
-package S6_ConstructorOverloading;
+package S06_ConstructorOverloading;
 
 public class Test {
     public static void main(String[] args) {

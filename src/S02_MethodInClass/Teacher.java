@@ -1,4 +1,4 @@
-package S2_MethodInClass;
+package S02_MethodInClass;
 
 public class Teacher {
     //Method creat korar jonno return type must

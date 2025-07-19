@@ -1,4 +1,4 @@
-package S7_ReturningValueFromMethod;
+package S07_ReturningValueFromMethod;
 
 public class Test {
     public static void main(String[] args) {
