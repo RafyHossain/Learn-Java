@@ -1,4 +1,4 @@
-package StaticVariable3;
+package S10_StaticVariable3;
 
 public class Test {
     public static void main(String[] args) {

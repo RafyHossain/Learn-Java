@@ -1,4 +1,4 @@
-package StaticVariable3;
+package S10_StaticVariable3;
 //count variable e static use na korle student er prottekta object er jonno count=0 initialize hbe
 //statict int count use korle cout++ hoite thakbe
 
