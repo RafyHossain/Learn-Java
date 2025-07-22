@@ -1,9 +1,9 @@
 package S06_ConstructorOverloading;
-
+//Constructor overloading er kkhrtre multiple constructor thake
+// different parameter type or different no of constructor mandatory
 public class Teacher {
 
-    //Constructor overloading er kkhrtre multiple constructor thake
-    // different parameter type or different no of constructor mandatory
+
 
 
     String name;
