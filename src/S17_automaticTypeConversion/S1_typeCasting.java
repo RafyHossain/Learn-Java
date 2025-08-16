@@ -14,7 +14,7 @@ Explicit (Type Casting / Narrowing)। নিচে বাংলায় বি
 
 জাভা এটাকে auto conversion বা widening বলে।  */
 
-public class typeCasting {
+public class S1_typeCasting {
     public static void main(String[] args) {
         int a = 100;
         double b;

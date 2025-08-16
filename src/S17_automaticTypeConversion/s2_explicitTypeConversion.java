@@ -9,7 +9,7 @@ package S17_automaticTypeConversion;
 বড় ডেটা টাইপ থেকে ছোট ডেটা টাইপে রূপান্তর করলে ডেটার কিছু অংশ হারাতে পারে।
 
 এটাকে narrowing বা explicit casting বলা হয়। */
-public class explicitTypeConversion {
+public class s2_explicitTypeConversion {
     public static void main(String[] args) {
         double x = 10.99;
         int y;
